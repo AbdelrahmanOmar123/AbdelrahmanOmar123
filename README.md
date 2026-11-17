@@ -51,6 +51,7 @@ I am an Information Technology graduate from Misr University for Science and Tec
 | Project | Description | Tools |
 |---|---|---|
 | [EgyptOra – Tourism Analytics & Destination Intelligence](https://github.com/AbdelrahmanOmar123/EgyptOra-Tourism-Analytics) | DigiLiAns capstone project analyzing Egyptian tourism trends, destination segmentation, and similarity-based recommendations. | Python, Power BI, ML || Telecom Customer Churn Analysis | Identifying customer churn patterns and retention opportunities. | Power BI |
+| [Manufacturing Defects Analysis](https://github.com/AbdelrahmanOmar123/Manufacturing-Defects-Analysis) | DEPI team capstone analyzing manufacturing defects, supplier performance, and downtime. Responsible for Python data preprocessing. | Python, Tableau |
 | [Adidas Sales Analysis](https://github.com/AbdelrahmanOmar123/adidas-sales) | Analyzing sales, profitability, and regional performance. | Power BI |
 | Healthcare Patient Demographics | Exploring patient demographics and admission trends. | Power BI |
 | Retail Stores Sales Dashboard | Tracking sales, orders, and category performance. | Excel |
